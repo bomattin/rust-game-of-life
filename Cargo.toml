@@ -1,0 +1,4 @@
+[package]
+name = "life"
+version = "0.1.0"
+authors = ["bomattin <bomattin@butler.edu>"]
